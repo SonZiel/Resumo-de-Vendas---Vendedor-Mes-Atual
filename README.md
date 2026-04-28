@@ -61,7 +61,8 @@ Cada vendedor tem seu resumo mensal atualizado em tempo real conforme os dados d
 
 ## 🪄 Demonstração Visual
 
-<img width="814" height="636" alt="image" src="https://github.com/user-attachments/assets/47f94b34-5e6e-47f4-80b9-f624a9275f29" />
+<img width="754" height="603" alt="image" src="https://github.com/user-attachments/assets/9ca3f5b1-be12-402d-98ca-2b3258640847" />
+
 
 
 ---
